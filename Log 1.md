@@ -16,4 +16,15 @@
 ### JDK,JRE,JVM的关系
 
 ``` 
-JDK=JRE+开发工具集
+JDK=JRE+开发工具集（例如javac编译工具等）
+JRE=JVM+JAVA SE标准类库
+```
+
+### 环境变量的配置
+
+```
+path环境变量：windows操作系统命令时索要搜寻的路径
+为什么配置环境变量：希望java开发工具(javac.exe,java.exe)在任何文件路径下都可以执行成功
+```
+
+### 
